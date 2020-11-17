@@ -28,7 +28,9 @@ It's time to make your recipe (from homework #1) a little more exciting.
 1. Add a title to your page (within the <head>) and an actual <h1> title on the page.
 2. Below the h1, add a paragraph that explains what the food is, and why you like it so much.
 3. Somewhere on the page, add a few images of finished versions of your dish so that the reader can see what the final product should look like.
-4. Add emojis to your second list (the ordered list), so that at least 5 of the lines end with an emoji character. You can find emojis online pretty easily. If you don't how to use emojis in HTML, read this article. Then use this reference.
+4. Add emojis to your second list (the ordered list), so that at least 5 of the lines end with an emoji character. You can find emojis online pretty easily. If you don't how to use emojis in HTML, read this article. Then use this reference.https://www.kirupa.com/html5/emoji.htm
+
+https://unicode.org/emoji/charts/full-emoji-list.html
 
 Part 2: Save the HTML
 
